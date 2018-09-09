@@ -1,7 +1,6 @@
 # employee-info
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a sample crud application using EmberJs. It allows to list, create, update and delete employees.
 
 ## Prerequisites
 
