@@ -1,0 +1,39 @@
+
+@import "bootstrap";
+
+body {
+    background: #f3f3f3;
+    padding-top: 20px;
+}
+
+.container {
+    max-width: 1024px;
+    min-height: 100vh;
+    background: #f9f9f9;
+    margin: 0 auto;
+}
+
+.employee-list {
+    table {
+        margin-bottom: 0;
+    }
+    thead {
+        background: #dbe6f6;
+        th {
+            padding: 0.5em 1em 0.5em 1em;
+        }
+    }
+    tbody {
+        td {
+            padding: 0.6em 1em 0.5em 1em !important;
+            p {
+                margin: 0 0 2px !important;
+            }
+        }
+    }
+    margin-bottom: 1em;  
+}
+
+.form-control-feedback{
+    right: 1em;
+}
